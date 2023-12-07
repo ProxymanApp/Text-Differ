@@ -1,0 +1,20 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Text Differ</title>
+    <item>
+      <pubDate>Thu, 07 Dec 2023 15:12:41 GMT+0700</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ProxymanApp/Text-Differ/releases/download/1.0.0/Text.Differ.1.0.dmg"
+       sparkle:version="100"
+        sparkle:shortVersionString="1.0"
+         type="application/octet-stream"
+        sparkle:edSignature="JPNQUmQ5Ijy+G1jtz6Md05XV31Jik9x8RhFDNzfsoZyxeFCJCMY1Wtf1r2x/jJyYobIDSw3GYeufyj0yVTrpDw==" length="5032112"/>
+      <title>Text Differ v1.0.0: The dead simple MVP 🎉</title>
+      <description>
+        <![CDATA[
+        <h2><a href='https://github.com/ProxymanApp/Text-Differ/releases'>Github Release Notes</a><h2>
+        ]]> 
+      </description>
+    </item>
+  </channel>
+</rss>
