@@ -2,15 +2,15 @@
   <channel>
     <title>Text Differ</title>
     <item>
-      <pubDate>Fri, 08 Dec 2023 15:15:41 GMT+0700</pubDate>
+      <pubDate>Sat, 09 Dec 2023 15:15:41 GMT+0700</pubDate>
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/ProxymanApp/Text-Differ/releases/download/1.1.0/Text.Differ.1.1.dmg"
-       sparkle:version="110"
-        sparkle:shortVersionString="1.1"
+      <enclosure url="https://github.com/ProxymanApp/Text-Differ/releases/download/1.2/Text.Differ.1.2.dmg"
+       sparkle:version="120"
+        sparkle:shortVersionString="1.2"
          type="application/octet-stream"
-        sparkle:edSignature="Rqeqtb17cKYt7MBvBB6H+NqWwPm0DcC8mayBXkYGjL7W7mNoct8kpUaEhiuvjhoVfTTZAsV99i5LnpQaKrUGAw==" length="5036547"
+        sparkle:edSignature="iIqgaAXT3m/7fIr55k8LYeOIsce98q4DYY24KiD1SGvInun4IV1zRJE+a5GlFBURp+zz5hwjSQh1pkJ5jPlBCw==" length="5033211"
         />
-      <title>Text Differ v1.1.0: Better Drag and Drop ✅</title>
+      <title>Text Differ v1.1.2: Support Diff Setting ✅</title>
       <description>
         <![CDATA[
         <h2><a href='https://github.com/ProxymanApp/Text-Differ/releases'>Show Github Release Notes</a><h2>
